@@ -4,4 +4,4 @@ Per **compilare**:
 `make`
 
 Per **Eseguire**
-`./main.exe
+`./main.exe`
