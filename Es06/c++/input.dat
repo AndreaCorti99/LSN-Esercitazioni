@@ -1,0 +1,19 @@
+0
+1
+0.5
+50
+1.0
+0.02
+0
+20
+100000
+
+  ReadInput >> restart; //se uguale a 1 (=vero) riparte da una nuova configurazione
+  ReadInput >> startingpoint; //se uguale a 1 (=vero) considera come punto di partenza uno stato disordinato, con 0 ordinato
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
